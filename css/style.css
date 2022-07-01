@@ -1,0 +1,27 @@
+/* Grobal */
+:root {
+  /* Color */
+  --color-white: #fff;
+  --color-light-white: #eee;
+  --color-dark-white: #bdbdbd;
+
+  /* Font Size */
+
+  /* Font weight */
+
+  /* Size */
+}
+
+h3 {
+  font-size: var(--font-reular);
+  font-weight: var(--font-reular);
+  color: var(--color-balck);
+  margin: 8px 0;
+}
+
+p {
+  font-size: var(--font-reular);
+  font-weight: var(--font-reular);
+  color: var(--color-balck);
+  margin: 4px 0;
+}
